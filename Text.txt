@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file will be a check at the end If I`m handling branches correctly.
+=======
+12312312312312321312
+>>>>>>> NewBranch
